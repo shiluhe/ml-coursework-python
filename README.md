@@ -6,3 +6,9 @@ This repository is for recording my process of writing machine learning code, an
 ---
 
 ## logs
+
+26.3.19：
+
+Do Exercise 1, solved one small problem each of univariate linear regression and multivariate linear regression, reviewed basic Python syntax, and practiced writing code related to cost calculation and gradient descent.
+
+
